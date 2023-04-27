@@ -16,8 +16,10 @@ introduzindo os seguintes comportamentos:
 	- ListaArranjo.c
 	- ListaArranjo.h
 	- MainListaArranjo.c
+	- Pessoa.c
+	- Pessoa.h //possui os headers utilizados
  Compilar: 
-	gcc -o Programa ListaArranjo.c MainListaArranjo.c
+	gcc -o Programa Pessoa.c ListaArranjo.c MainListaArranjo.c
  
  Executar:
 	./Programa < sampleInput.txt
