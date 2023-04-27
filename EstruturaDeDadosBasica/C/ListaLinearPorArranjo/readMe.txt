@@ -7,9 +7,9 @@ introduzindo os seguintes comportamentos:
  5 - Remover elementos no final, meio e inicio da Lista
 
  A Lista linear por meio de arranjos tem como propriedade os elementos estarem em posicao contigua na memoria
- Sendo a principal vantagem o acesso de qualquer elemento em tempo constante
- e a principal desvantagem eh a falta de flexibilidade da sua capacidade total de elementos
- que eh um fator limitador para a performace se a quantidade de itens nao eh prevista
+ Sendo a principal vantagem o acesso a qualquer elemento em tempo constante
+ e desvantagem a falta de flexibilidade da sua capacidade total de elementos
+ fator limitador para a performace se a quantidade de itens nao eh prevista
  ou se a linguagem utilizada so permite alocaçao em tempo de compilacao
 
  Conteudo:
