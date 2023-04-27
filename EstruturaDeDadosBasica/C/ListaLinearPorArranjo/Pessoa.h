@@ -1,10 +1,9 @@
 #ifndef PESSOA_H
 #define PESSOA_H
+/* Rafael Toffalini de Carvalho Alves */
+
 #include <stdio.h>
 #include <stdlib.h>
-/* Rafael Toffalini de Carvalho Alves */
-#define PMAXLEN 100
-#define PINCREASE 10
 
 //--> STRUCT PESSOA
 enum pessoa_case { //enum para melhorar a legibilidade no switch case
