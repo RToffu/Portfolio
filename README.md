@@ -19,7 +19,7 @@ Mapa:
         - PilhaFlexivel/
         - FilaFlexivel/
         - ListaDuplamenteEncadeada/
-     - Projetos/
-      - CalculadoraEmCgtk/
-      - GerenciamentoLivrosJava/
+    - Projetos/
+        - CalculadoraEmCgtk/
+        - GerenciamentoLivrosJava/
       
