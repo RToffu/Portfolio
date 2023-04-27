@@ -26,7 +26,7 @@ String * readInput (); //funcao para entradad de dados que retorna string
                 String * obj = NULL;
                 String * sub_obj = NULL;
                 int position = 0;
-		Pilha * pilha = makePilha(20); //pilha eh criada com tamanho 20 (poderia ser qlqr tamanho menor q LMAXLEN)
+		Pilha * pilha = makePilha(20); //pilha eh criada com tamanho 20 (poderia ser qlqr tamanho menor q PMAXLEN)
 
 		printf("\n");
 		while ((obj = readInput())) { //enquanto ler entrada diferente de NULL
