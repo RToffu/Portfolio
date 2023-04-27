@@ -1,0 +1,107 @@
+
+(R) Stuart Ellis Age: 27 E-mail: s.ellis@randatmail.com
+(R) Edwin Carroll Age: 18 E-mail: e.carroll@randatmail.com
+(I - 3) Justin Roberts Age: 20 E-mail: j.roberts@randatmail.com
+(R - 12) Alina Clark Age: 23 E-mail: a.clark@randatmail.com
+(R) Owen Morrison Age: 22 E-mail: o.morrison@randatmail.com
+(I - 21) Marcus Richardson Age: 27 E-mail: m.richardson@randatmail.com
+(I - 0) Gianna Russell Age: 20 E-mail: g.russell@randatmail.com
+(I - 30) Victor Hill Age: 29 E-mail: v.hill@randatmail.com
+(R - 14) Albert Spencer Age: 30 E-mail: a.spencer@randatmail.com
+(R - 15) Lucia Taylor Age: 25 E-mail: l.taylor@randatmail.com
+(R - 3) Agata Kelley Age: 26 E-mail: a.kelley@randatmail.com
+(R) Kirsten Sullivan Age: 18 E-mail: k.sullivan@randatmail.com
+(R) Owen Casey Age: 25 E-mail: o.casey@randatmail.com
+(R) Evelyn Spencer Age: 18 E-mail: e.spencer@randatmail.com
+(R) Adrianna Hunt Age: 25 E-mail: a.hunt@randatmail.com
+
+Lista Final: 
+[0] Gianna Russell Age: 20 E-mail: g.russell@randatmail.com
+[1] Stuart Payne Age: 22 E-mail: s.payne@randatmail.com
+[2] Edward Ross Age: 20 E-mail: e.ross@randatmail.com
+[3] Justin Roberts Age: 20 E-mail: j.roberts@randatmail.com
+[4] Richard Barrett Age: 29 E-mail: r.barrett@randatmail.com
+[5] Jasmine Chapman Age: 22 E-mail: j.chapman@randatmail.com
+[6] Oliver Casey Age: 24 E-mail: o.casey@randatmail.com
+[7] Edith Nelson Age: 18 E-mail: e.nelson@randatmail.com
+[8] Ada Anderson Age: 22 E-mail: a.anderson@randatmail.com
+[9] Sam Perkins Age: 26 E-mail: s.perkins@randatmail.com
+[10] Edwin Adams Age: 19 E-mail: e.adams@randatmail.com
+[11] Ned Clark Age: 29 E-mail: n.clark@randatmail.com
+[12] Arnold Reed Age: 18 E-mail: a.reed@randatmail.com
+[13] Freddie Hawkins Age: 21 E-mail: f.hawkins@randatmail.com
+[14] Carl Bailey Age: 19 E-mail: c.bailey@randatmail.com
+[15] Martin Reed Age: 24 E-mail: m.reed@randatmail.com
+[16] Briony Parker Age: 19 E-mail: b.parker@randatmail.com
+[17] Jared Sullivan Age: 29 E-mail: j.sullivan@randatmail.com
+[18] Antony Watson Age: 23 E-mail: a.watson@randatmail.com
+[19] Marcus Richardson Age: 27 E-mail: m.richardson@randatmail.com
+[20] Vincent Wells Age: 25 E-mail: v.wells@randatmail.com
+[21] Owen Mason Age: 24 E-mail: o.mason@randatmail.com
+[22] Ashton Phillips Age: 18 E-mail: a.phillips@randatmail.com
+[23] Agata Martin Age: 30 E-mail: a.martin@randatmail.com
+[24] Paul Carter Age: 25 E-mail: p.carter@randatmail.com
+[25] Sophia Stewart Age: 29 E-mail: s.stewart@randatmail.com
+[26] Wilson Gibson Age: 29 E-mail: w.gibson@randatmail.com
+[27] Victor Hill Age: 29 E-mail: v.hill@randatmail.com
+[28] Adrian Davis Age: 29 E-mail: a.davis@randatmail.com
+[29] Steven Wilson Age: 20 E-mail: s.wilson@randatmail.com
+[30] Miranda Russell Age: 18 E-mail: m.russell@randatmail.com
+[31] Daisy Phillips Age: 28 E-mail: d.phillips@randatmail.com
+[32] Nicole Richardson Age: 26 E-mail: n.richardson@randatmail.com
+[33] Walter Adams Age: 18 E-mail: w.adams@randatmail.com
+[34] Victor Foster Age: 18 E-mail: v.foster@randatmail.com
+[35] Eric Riley Age: 27 E-mail: e.riley@randatmail.com
+[36] Eleanor Morgan Age: 19 E-mail: e.morgan@randatmail.com
+[37] Mike Scott Age: 28 E-mail: m.scott@randatmail.com
+[38] Joyce Taylor Age: 20 E-mail: j.taylor@randatmail.com
+[39] Heather Robinson Age: 23 E-mail: h.robinson@randatmail.com
+[40] Abraham Ellis Age: 21 E-mail: a.ellis@randatmail.com
+[41] Aiden Russell Age: 20 E-mail: a.russell@randatmail.com
+[42] James Ferguson Age: 20 E-mail: j.ferguson@randatmail.com
+[43] Amber Phillips Age: 22 E-mail: a.phillips@randatmail.com
+[44] Melanie Hamilton Age: 18 E-mail: m.hamilton@randatmail.com
+[45] Ashton Watson Age: 23 E-mail: a.watson@randatmail.com
+[46] Byron Stevens Age: 30 E-mail: b.stevens@randatmail.com
+[47] Roman Sullivan Age: 26 E-mail: r.sullivan@randatmail.com
+[48] Alisa Jones Age: 28 E-mail: a.jones@randatmail.com
+[49] Dominik Murray Age: 26 E-mail: d.murray@randatmail.com
+[50] Cadie Evans Age: 23 E-mail: c.evans@randatmail.com
+[51] Dexter Hunt Age: 19 E-mail: d.hunt@randatmail.com
+[52] Tiana Elliott Age: 25 E-mail: t.elliott@randatmail.com
+[53] Dale Barnes Age: 26 E-mail: d.barnes@randatmail.com
+[54] Olivia Dixon Age: 23 E-mail: o.dixon@randatmail.com
+[55] Alexander Robinson Age: 24 E-mail: a.robinson@randatmail.com
+[56] Annabella Wilson Age: 26 E-mail: a.wilson@randatmail.com
+[57] Antony Campbell Age: 27 E-mail: a.campbell@randatmail.com
+[58] Adele Cameron Age: 20 E-mail: a.cameron@randatmail.com
+[59] Deanna Holmes Age: 28 E-mail: d.holmes@randatmail.com
+[60] Vivian Ross Age: 22 E-mail: v.ross@randatmail.com
+[61] Cherry Casey Age: 28 E-mail: c.casey@randatmail.com
+[62] Catherine Morris Age: 30 E-mail: c.morris@randatmail.com
+[63] Arthur Farrell Age: 27 E-mail: a.farrell@randatmail.com
+[64] Alisa Howard Age: 19 E-mail: a.howard@randatmail.com
+[65] Jacob Perkins Age: 30 E-mail: j.perkins@randatmail.com
+[66] Rubie Miller Age: 24 E-mail: r.miller@randatmail.com
+[67] Wilson Spencer Age: 24 E-mail: w.spencer@randatmail.com
+[68] Joyce Craig Age: 23 E-mail: j.craig@randatmail.com
+[69] Jasmine Wells Age: 18 E-mail: j.wells@randatmail.com
+[70] Lenny Perkins Age: 26 E-mail: l.perkins@randatmail.com
+[71] Ryan Owens Age: 28 E-mail: r.owens@randatmail.com
+[72] Camila Wilson Age: 19 E-mail: c.wilson@randatmail.com
+[73] Byron Payne Age: 21 E-mail: b.payne@randatmail.com
+[74] Alissa Watson Age: 19 E-mail: a.watson@randatmail.com
+[75] Briony Murphy Age: 26 E-mail: b.murphy@randatmail.com
+[76] Charlie Cooper Age: 29 E-mail: c.cooper@randatmail.com
+[77] Julian Reed Age: 18 E-mail: j.reed@randatmail.com
+[78] Lucas Wells Age: 22 E-mail: l.wells@randatmail.com
+[79] Emma Allen Age: 22 E-mail: e.allen@randatmail.com
+[80] Jasmine Lloyd Age: 21 E-mail: j.lloyd@randatmail.com
+[81] Ashton Cole Age: 25 E-mail: a.cole@randatmail.com
+[82] Patrick Perkins Age: 28 E-mail: p.perkins@randatmail.com
+[83] Edith Thompson Age: 30 E-mail: e.thompson@randatmail.com
+[84] Tyler Hill Age: 23 E-mail: t.hill@randatmail.com
+[85] Roland Hamilton Age: 18 E-mail: r.hamilton@randatmail.com
+[86] Melanie Thompson Age: 27 E-mail: m.thompson@randatmail.com
+[87] Alissa Murphy Age: 21 E-mail: a.murphy@randatmail.com
+[88] Florrie Evans Age: 26 E-mail: f.evans@randatmail.com
