@@ -22,4 +22,5 @@ Mapa:
     - Projetos/
       - CalculadoraEmCgtk/
       - GerenciamentoLivrosJava/
+    - ScriptEmBash/
       
